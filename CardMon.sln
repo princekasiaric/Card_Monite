@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMon.API", "CardMon.API\CardMon.API.csproj", "{58F5FBBD-FFEF-4D1F-B360-3E97F80CC70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMon.Core", "CardMon.Core\CardMon.Core.csproj", "{967491D0-9DF9-4020-A5C4-A61FFA663893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMon.Infrastructure", "CardMon.Infrastructure\CardMon.Infrastructure.csproj", "{898F1161-58AA-45F6-86EE-02EE01F1FC2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F5FBBD-FFEF-4D1F-B360-3E97F80CC70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F5FBBD-FFEF-4D1F-B360-3E97F80CC70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F5FBBD-FFEF-4D1F-B360-3E97F80CC70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F5FBBD-FFEF-4D1F-B360-3E97F80CC70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967491D0-9DF9-4020-A5C4-A61FFA663893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967491D0-9DF9-4020-A5C4-A61FFA663893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967491D0-9DF9-4020-A5C4-A61FFA663893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967491D0-9DF9-4020-A5C4-A61FFA663893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898F1161-58AA-45F6-86EE-02EE01F1FC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898F1161-58AA-45F6-86EE-02EE01F1FC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898F1161-58AA-45F6-86EE-02EE01F1FC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898F1161-58AA-45F6-86EE-02EE01F1FC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC21EAEC-D602-4D53-AC8A-94762F62C775}
+	EndGlobalSection
+EndGlobal

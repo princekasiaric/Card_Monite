@@ -1,0 +1,9 @@
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\bin\Release\netcoreapp3.1\CardMon.Core.deps.json
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\bin\Release\netcoreapp3.1\CardMon.Core.dll
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\bin\Release\netcoreapp3.1\CardMon.Core.pdb
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.csprojAssemblyReference.cache
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.AssemblyInfoInputs.cache
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.AssemblyInfo.cs
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.dll
+C:\Users\Prince.Nmorka\Documents\Fidelity\CardMon\CardMon.Core\obj\Release\netcoreapp3.1\CardMon.Core.pdb
